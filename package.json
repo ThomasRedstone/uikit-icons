@@ -1,0 +1,19 @@
+{
+  "name": "uikit-icons",
+  "version": "0.1.0",
+  "description": "Provides the icons from UIkit, and nothing else.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasRedstone/uikit-icons.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasRedstone/uikit-icons/issues"
+  },
+  "homepage": "https://github.com/ThomasRedstone/uikit-icons#readme"
+}
