@@ -4,7 +4,8 @@
   "description": "Provides the icons from UIkit, and nothing else.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "svgr --template svgrTemplate.js --ext tsx -d src/components icons"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/ThomasRedstone/uikit-icons#readme",
   "dependencies": {
     "react": "^16.11.0"
+  },
+  "devDependencies": {
+    "@svgr/cli": "^4.3.3"
   }
 }
