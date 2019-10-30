@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThomasRedstone/uikit-icons/issues"
   },
-  "homepage": "https://github.com/ThomasRedstone/uikit-icons#readme"
+  "homepage": "https://github.com/ThomasRedstone/uikit-icons#readme",
+  "dependencies": {
+    "react": "^16.11.0"
+  }
 }
