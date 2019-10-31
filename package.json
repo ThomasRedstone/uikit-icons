@@ -1,11 +1,11 @@
 {
   "name": "uikit-icons",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "Provides the icons from UIkit, and nothing else.",
   "files": ["lib/**/*"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc --jsx preserve",
+    "build": "tsc --jsx react",
     "generate": "svgr --template svgrTemplate.js --ext tsx -d src/components icons"
   },
   "repository": {
