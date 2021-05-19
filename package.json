@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ThomasRedstone/uikit-icons#readme",
   "dependencies": {
-    "@types/react": "^16.9.11",
+    "@types/react": "^17.0.6",
     "react": "^16.11.0"
   },
   "devDependencies": {
